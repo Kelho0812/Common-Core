@@ -1,4 +1,4 @@
-ft_strlcpy(char *dst, const char *src, int size)
+char	*ft_strlcpy(char *dst, const char *src, int size)
 {
 	int	i;
 
@@ -9,4 +9,5 @@ ft_strlcpy(char *dst, const char *src, int size)
 		i++;
 	}
 	dst[i] = '\0';
+	return(dst);
 }
