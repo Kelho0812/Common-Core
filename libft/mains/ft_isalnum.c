@@ -4,7 +4,6 @@ int ft_isalnum(int c)
 	{
 		return (1);
 	}
-
 	else if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
