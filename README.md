@@ -87,7 +87,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
 
 ## Rank 2
 
-### Exam Rank 02
+### Exam
 <table align="center" dir="auto">
   <thead>
     <tr>
@@ -99,7 +99,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
   <tbody>
     <tr>
       <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/libft"><b>Exam Rank 2<b><a />
+        <a href="https://github.com/Kelho0812/Common-Core#exam"><b>Exam Rank 2<b><a />
       </td>
       <td align="center" dir="auto">
         <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
