@@ -36,7 +36,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
       </td>
       <td align="center" dir="auto">
         <img alt="Static Badge"
-          src="https://img.shields.io/badge/125%2F100%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
+          src="https://img.shields.io/badge/125%2F125%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
       </td>
       <td align="center" dir="auto">
         <img alt="Static Badge"
-          src="https://img.shields.io/badge/125%2F100%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
+          src="https://img.shields.io/badge/125%2F125%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
       </td>
     </tr>
   </tbody>
@@ -104,7 +104,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
       <td align="center" dir="auto">
         <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
       <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/100%2F125-%231f5748">
+        <img alt="Static Badge" src="https://img.shields.io/badge/100%2F100%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
       </td>
     </tr>
   </tbody>
