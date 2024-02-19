@@ -207,7 +207,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
   <tbody>
     <tr>
       <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/push_swap"><b>Philosophers<b><a />
+        <a href="https://github.com/Kelho0812/philosophers"><b>Philosophers<b><a />
       </td>
       <td align="center" dir="auto">
         <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/philosophers">
