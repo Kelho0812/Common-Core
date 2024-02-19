@@ -130,10 +130,10 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
         <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/push_swap">
       </td>
       <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Waiting%20Review-%23948c1b">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
       </td>
       <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Waiting%20Review-%23948c1b">
+        <img alt="Static Badge" src="https://img.shields.io/badge/97%2F125-%231f5748">
       </td>
     </tr>
     <tr>
@@ -144,10 +144,25 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
         <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/minitalk">
       </td>
       <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Ongoing-%231b8094">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
       </td>
       <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/N/A-%231b8094">
+         <img alt="Static Badge"
+          src="https://img.shields.io/badge/125%2F125%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
+      </td>
+    </tr>
+              <tr>
+      <td align="center" dir="auto">
+        <a href="https://github.com/Kelho0812/minitalk"><b>so_long<b><a />
+      </td>
+      <td align="center" dir="auto">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/so_long">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/110%2F125-%231f5748">
       </td>
     </tr>
   </tbody>
