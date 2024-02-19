@@ -153,7 +153,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
     </tr>
               <tr>
       <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/minitalk"><b>so_long<b><a />
+        <a href="https://github.com/Kelho0812/so_long"><b>so_long<b><a />
       </td>
       <td align="center" dir="auto">
         <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/so_long">
