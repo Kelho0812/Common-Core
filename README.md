@@ -10,10 +10,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
 
 # Projects
 
-## Rank 1
-
-### Projects
-
+ <h2 align="center" dir="auto"> Rank 1</h2> 
 <table align="center" dir="auto">
   <thead>
     <tr>
@@ -84,34 +81,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
     </tr>
   </tbody>
 </table>
-
-## Rank 2
-
-### Exam
-<table align="center" dir="auto">
-  <thead>
-    <tr>
-      <th>Exam<br></th>
-      <th>Status </th>
-      <th>Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/Common-Core#exam"><b>Exam Rank 2<b><a />
-      </td>
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/100%2F100%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Projects
-
+<h2 align="center" dir="auto"> Rank 2</h2> 
 <table align="center" dir="auto">
   <thead>
     <tr>
@@ -168,32 +138,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
   </tbody>
 </table>
 
-## Rank 3
-
-### Exam
-<table align="center" dir="auto">
-  <thead>
-    <tr>
-      <th>Exam<br></th>
-      <th>Status </th>
-      <th>Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/Common-Core#exam"><b>Exam Rank 3<b><a />
-      </td>
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/100%2F100%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Projects
+<h2 align="center" dir="auto"> Rank 3</h2>
 
 <table align="center" dir="auto">
   <thead>
@@ -238,33 +183,7 @@ bigger dimension projects, learning C, C++ and an array of other tools along the
   </tbody>
 </table>
 
-## Rank 3
-
-### Exam
-<table align="center" dir="auto">
-  <thead>
-    <tr>
-      <th>Exam<br></th>
-      <th>Status </th>
-      <th>Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/Common-Core#exam"><b>Exam Rank 4<b><a />
-      </td>
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/ongoing-orange">
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/ongoing-orange">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Projects
-
+<h2 align="center" dir="auto"> Rank 4</h2> 
 <table align="center" dir="auto">
   <thead>
     <tr>
