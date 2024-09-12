@@ -1,16 +1,15 @@
-# Common-Core
+<h1 align="center" dir="auto">Common Core</h1>
 
 Repository for all the code written for 42 Network as part of their Common-Core curriculum.
 
 The Common-Core focuses on project-based methodology and peer-to-peer approach, prioritizing practical work and teamwork
 to help us learn.
 
-As part of the Common-Core, we're expected to remake existing functions from scratch, build our own libraries & create
+As part of the Common Core, we're expected to remake existing functions from scratch, build our own libraries & create
 bigger dimension projects, learning C, C++ and an array of other tools along the way.
 
-# Projects
-
- <h2 align="center" dir="auto"> Rank 1</h2> 
+<h1 align="center" dir="auto">Projects</h1>
+<h2 align="center" dir="auto">Rank 1</h2>
 <table align="center" dir="auto">
   <thead>
     <tr>
